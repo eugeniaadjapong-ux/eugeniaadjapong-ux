@@ -64,9 +64,6 @@
     <li>🧩 <strong>Tech:</strong> HTML • CSS • JavaScript • [React / Bootstrap / etc.]</li>
     <li>🚀 <strong>Impact / Learning:</strong> [What you learned or the user impact — e.g., made reporting easier for community members]</li>
   </ul>
-  <!-- Optional image: add a small screenshot, replace path with your image in repo -->
-  <p><a href="https://github.com/your-username/project-repo"><img alt="[Project screenshot]" src="assets/project-1-screenshot.png" width="420"/></a></p>
-</article>
 
 <!-- Example second project -->
 <article>
@@ -102,8 +99,8 @@
 <!-- ===== Resume / Contact ===== -->
 <h2 id="contact">Contact</h2>
 <p>
-  <strong>Email:</strong> <a href="mailto:[eugeniaadjapong@gmail.com]">[your.email@example.com]</a><br/>
-  <strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/eugenia-adjapong-6941ba2a0">[linkedin.com/in/your-linkedin]</a><br/><strong>Portfolio / Resume:</strong> <a href="[[]](https://docs.google.com/document/d/1AFFmJ28BtruFjXykf86k3sB2GBmbAPVR/edit?usp=sharing&ouid=102372736129041895465&rtpof=true&sd=true)">Download/View</a> 
+  <strong>Email:</strong> <a href="mailto:[eugeniaadjapong@gmail.com]">[eugeniaadjapong@gmail.com]</a><br/>
+  <strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/eugenia-adjapong-6941ba2a0">[linkedin.com/in/eugenia-adjapong-6941ba2a0]</a><br/><strong>Portfolio / Resume:</strong> <a href="[[]](https://docs.google.com/document/d/1AFFmJ28BtruFjXykf86k3sB2GBmbAPVR/edit?usp=sharing&ouid=102372736129041895465&rtpof=true&sd=true)">Download/View</a> 
 </p>
 
 <hr/>
