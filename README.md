@@ -107,16 +107,6 @@
 </p>
 
 <hr/>
-
-<!-- ===== Optional Dynamic Widgets ===== -->
-<h2 id="stats">Stats & Languages (optional)</h2>
-<p>
-  <!-- If you use external readme tools, replace `your-username` accordingly. These images display dynamic content on GitHub profile READMEs. -->
-  <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eugeniaaadjapong-ux&show_icons=true&count_private=true&theme=default" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
-</p>
-<div style="clear: both;"></div>
-
 <hr/>
 
 <!-- ===== Roadmap / Learning Plan ===== -->
