@@ -1,5 +1,5 @@
 <!-- ===== Hero / Top ===== -->
-<h1 align="center">Hi 👋, I'm [Eugenia Adjapong]</h1>
+<h1 align="center">Hi 👋, I'm Eugenia Adjapong</h1>
 <p align="center">
   <strong>Aspiring Software Engineer • Front-End Developer in training</strong><br>
   I'm currently learning Front-End Development at ALX and building real-world projects that solve meaningful problems.
@@ -53,17 +53,8 @@
 
 <!-- ===== Featured / Spotlight Projects ===== -->
 <h2 id="projects">Featured Projects</h2>
-<p>Showcase 3–6 of your best or most relevant projects. For each: one-line intro, short bullet points, tech used, and a screenshot/link.</p>
 
 <!-- Project card (copy for each project) -->
-<article>
-  <h3><a href="https://github.com/your-username/project-repo">[Project Title]</a></h3>
-  <p><em>Short tagline — what the project does in one sentence.</em></p>
-  <ul>
-    <li>🔧 <strong>What I built:</strong> [Describe your role and main features you implemented]</li>
-    <li>🧩 <strong>Tech:</strong> HTML • CSS • JavaScript • [React / Bootstrap / etc.]</li>
-    <li>🚀 <strong>Impact / Learning:</strong> [What you learned or the user impact — e.g., made reporting easier for community members]</li>
-  </ul>
 
 <!-- Example second project -->
 <article>
